@@ -1,0 +1,6 @@
+{
+  "name": "Cc-icons",
+  "tagline": "Custom icons font for some projects",
+  "body": "CC-Icons\r\n========\r\n\r\nCustom Icon font used for some projects\r\n\r\nWhat is it\r\n----------\r\n\r\nJust a [Fontello](http://fontello.com) generated icon font used in webDev projects.\r\n\r\nFor more info see:\r\n\r\n* [Font demo page](https://macik.github.io/cc-icons/demo.html)\r\n* [README.txt](https://raw.githubusercontent.com/macik/cc-icons/gh-pages/README.txt)\r\n* [LICENSE.txt](https://raw.githubusercontent.com/macik/cc-icons/gh-pages/LICENSE.txt)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
